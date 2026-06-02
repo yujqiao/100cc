@@ -1,0 +1,7 @@
+- [ ] Finish what is mentioned in README.md. Remove the 100 lines constraints. No longer need to keep to 100 lines. Organize your files properly
+- [ ] Implement proper compaction
+- [ ] Implement a proper TUI and support message streaming
+- [ ] Support user scoped AGENTS.md in `~/.100cc/AGENTS.md` and project scoped AGENTS.md
+- [ ] Name and manage session properly by project and use .jsonl for session files. Put sessions under `~/.100cc/sessions`
+- [ ] Support MCP
+- [ ] Ask the user what they want
